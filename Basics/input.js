@@ -1,6 +1,7 @@
 
-//For take an input from user we have to import promp function 
+//For take an input from user in Node we have to import promp function 
 //we impor promp like this 
+//In the DOM only use prompt
 const promp = require('prompt-sync')();
 
 
